@@ -1,0 +1,8 @@
+{
+  "app_id": "YOUR_APP_ID_HERE",
+  "name": "TestUser",
+  "password": "TestPass123",
+  "cookie": "YOUR_COOKIE_HERE",
+  "number_of_accounts": 10,
+  "delay_between_requests": 2
+}
